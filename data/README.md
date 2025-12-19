@@ -4,7 +4,7 @@ The dataset used in this project is too large to be hosted on GitHub.
 
 ### Download link
 Google Drive:  
-[<PASTE YOUR GOOGLE DRIVE LINK HERE>](https://drive.google.com/drive/folders/1MoYF_BRt9aDVayHjX3O4WWhlHCqVm1kk)
+https://drive.google.com/drive/folders/1MoYF_BRt9aDVayHjX3O4WWhlHCqVm1kk
 
 ### Directory structure
 After downloading and extracting the data, please organize the files as follows:
