@@ -9,3 +9,11 @@ Google Drive:
 ### Directory structure
 After downloading and extracting the data, please organize the files as follows:
 
+data/
+├── raw/
+├── processed/
+
+
+### Notes
+- Ensure file paths are consistent with the notebooks and scripts.
+- The repository does not track the data files themselves.
